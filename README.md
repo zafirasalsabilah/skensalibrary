@@ -1,0 +1,1 @@
+Skensa Library is a library management application developed to support the needs of librarians and book borrowers. Key features include book searching, automated borrowing and return transactions with real-time stock updates, late fee calculation, borrowing history tracking, and a bookmark feature that allows users to save their favorite books.
